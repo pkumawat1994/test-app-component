@@ -1,0 +1,88 @@
+.mainDiv {
+  display: flex;
+  background-color: #4cd137;
+  height: 900px;
+}
+.divWrapper {
+  display: flex;
+  margin: 20px;
+}
+.innerDiv {
+  height: 100px;
+  width: 100px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px grey;
+  margin: 20px;
+  text-align: center;
+  justify-content: center;
+  color: rgb(2, 5, 8);
+  background-color: aliceblue;
+}
+.sidDiv {
+  position: -webkit-sticky;
+  position: sticky;
+  background-color: aliceblue;
+  height: 500px;
+  width: 40%;
+  align-content: start;
+  border-radius: 20px;
+  margin-top: 36px;
+}
+.colorDiv_a {
+  background-color: orange;
+  height: 50px;
+  width: 50px;
+  margin: 23px;
+}
+.colorDiv_b {
+  background-color: #8c7ae6;
+  height: 50px;
+  width: 50px;
+  margin: 23px;
+}
+.colorDiv_c {
+  background-color: #e84118;
+  height: 50px;
+  width: 50px;
+  margin: 23px;
+}
+.colorDiv_a {
+  background-color: orange;
+  height: 50px;
+  width: 50px;
+  margin: 23px;
+}
+.colorDiv_package_a {
+  background-color: #00a8ff;
+  height: 50px;
+}
+.colorDiv_package_b {
+  background-color: #8c7ae6;
+  height: 50px;
+}
+.colorDiv_package_c {
+  background-color: #e1b12c;
+  height: 50px;
+}
+.valueName {
+  background-color: #e1b12c;
+  border-radius: 20px;
+  /* color: aliceblue; */
+  margin: 20px;
+  height: 400px;
+  padding: 50px;
+}
+.totelValues {
+  background-color: #c4e538;
+}
+.activeDiv {
+  height: 120px;
+  width: 120px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px rgb(93, 152, 219);
+  margin: 20px;
+  text-align: center;
+  justify-content: center;
+  color: rgb(2, 5, 8);
+  background-color: rgb(11, 68, 119);
+}
